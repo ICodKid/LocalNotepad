@@ -23,7 +23,7 @@ A feature-rich notepad application for local use, built with HTML, CSS, and Java
    ```
 2. Navigate to the project folder:
    ```bash
-   cd enhanced-notepad
+   cd LocalNotepad
    ```
 3. Open `index.html` in your browser to start using the application.
 
