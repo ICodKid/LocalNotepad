@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enhanced Notepad</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+  <div class="container">
+    <textarea id="notepad" placeholder="Start typing here..."></textarea>
+    <div class="buttons">
+      <button id="save"><i class="fa-solid fa-floppy-disk"></i> Save</button>
+      <button id="clear"><i class="fa-solid fa-trash"></i> Clear</button>
+      <button id="download"><i class="fa-solid fa-download"></i> Download</button>
+      <label for="upload" class="upload-label"><i class="fa-solid fa-upload"></i> Upload</label>
+      <input type="file" id="upload" accept=".txt" hidden>
+    </div>
+    <div class="find-replace">
+      <input type="text" id="find-input" placeholder="Find...">
+      <input type="text" id="replace-input" placeholder="Replace with...">
+      <button id="find" class="find-button"><i class="fa-solid fa-search"></i> Find</button>
+      <button id="replace" class="replace-button"><i class="fa-solid fa-spell-check"></i> Replace</button>
+    </div>
+    <div class="counter">
+      <p id="word-count">Words: 0</p>
+      <p id="char-count">Characters: 0</p>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
