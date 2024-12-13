@@ -47,7 +47,8 @@ A feature-rich notepad application for local use, built with HTML, CSS, and Java
 
 ### Main Interface
 
-(Add screenshot here)
+<img width="1675" alt="LocalNotepad" src="https://github.com/user-attachments/assets/0028e8ac-1011-4fb8-8aa3-fe615e7b47c8" />
+
 
 ## 🤝 Contributing 🤝
 
