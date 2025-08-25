@@ -1,5 +1,13 @@
 # ✨ Local Notepad ✨
 
+## ⚠️ Archived ⚠️
+
+This project has been archived for now. (╥﹏╥)  
+It was a fun little project I used to learn and experiment with,  
+and who knows — maybe I’ll pick it up again in the future. (◕︿◕✿)  
+
+---
+
 A feature-rich notepad application for local use, built with HTML, CSS, and JavaScript. This project includes various functionalities to improve the user experience and a modern, stylish design. (ᵔ◡◡ᵔ)
 
 ## 🌟 Features 🌟
@@ -74,4 +82,10 @@ This project is licensed under the MIT License. 📝
 ---
 
 ✨ Feel free to customise and enhance the project further. Happy coding! ✨ (◕‿◕)
+---
 
+## 💔 Farewell for Now 💔  
+
+Local Notepad has been tucked away into the archives.  
+Thank you to anyone who tried it out — it will always be a small milestone in my learning journey.  
+Farewell, old friend. (つ﹏⊂)  
